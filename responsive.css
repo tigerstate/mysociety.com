@@ -1,0 +1,27 @@
+
+
+@media only screen and (max-width: 500px) {
+   
+        
+    
+    .video-container video{
+        width: 28rem;
+        height: 15rem;
+        position: absolute;
+        min-height: 15rem;
+    }
+    .logo-illuminati{
+        position: absolute;
+        top: 2rem;
+        width: 28rem;
+    }
+    .event-section {
+        display: block;
+
+    }
+    .event-box img{
+        display: block;
+       width: 20rem;
+    }
+
+  }
